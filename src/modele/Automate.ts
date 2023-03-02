@@ -133,6 +133,10 @@ export class Automate {
 
     return [this.index, "Caractère numérique ou opérateur attendu"];
   }
+
+  toString() {
+    return this.calcul
+  }
 }
 
 /*
